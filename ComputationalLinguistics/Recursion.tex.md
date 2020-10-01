@@ -1,5 +1,5 @@
-- # The structure of lists, in [[Lisp]], is important, because it dovetails perfectly with recursion.
-    - ## With recursion, we can process a collection, with a function definition, that operates on the head element of a list, and calls itself on the rest of the list.
+The structure of lists, in [[Lisp]], is important, because it dovetails perfectly with recursion.
+    With recursion, we can process a collection, with a function definition, that operates on the head element of a list, and calls itself on the rest of the list.
     - ```clojure
 (def rec-fun (fn [l]
 	       (if (empty? l)
