@@ -10,7 +10,7 @@ The structure of lists, in [[Lisp]], is important, because it dovetails perfectl
 		  (rec-fun (rest l)))))) 
 ```
 
-    - ## This is the general pattern of a recursion function: we have our base case, which will kick us out of our recursive loop to avoid an infinite loop, and then we're going to accumulate our result. We want to perform some operation on an element of our collection, and then initiate a recursive call, on the rest of our collection.
+This is the general pattern of a recursion function: we have our base case, which will kick us out of our recursive loop to avoid an infinite loop, and then we're going to accumulate our result. We want to perform some operation on an element of our collection, and then initiate a recursive call, on the rest of our collection.
   A Look At Recursion:
     [](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2F0xLEDEV-HQ%2F_BUjhutnjJ.png?alt=media&token=21142b4b-dece-442c-8e90-46ac3782b709)
     Visualizing the tree structure of a recursive function is a very powerful way to make sense of it. Generally, within [[Linguistics]], these are referred to as __derivation trees__, or __parse trees.__
