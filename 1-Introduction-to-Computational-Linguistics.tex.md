@@ -9,6 +9,6 @@ Chomsky demonstrated that limiting the structure of these rules into four catego
 
 The above hierarchy is pivotal in theoretical [[Computer Science]], and is the basis of study for [[Formal Grammars]] in #linguistics. 
 
-[f4]: http://chart.apis.google.com/chart?cht=tx&chl=\huge{S->\text{NP}\;\text{VP}}
+[f4]: http://chart.apis.google.com/chart?cht=tx&chl=\huge{S->\text{NP}\text{VP}}
 
 [f5]: http://chart.apis.google.com/chart?cht=tx&chl=\huge{{\ell_{LL}\;\sub\\;ell_{CF}\sub\ell_{CS}\ell_{UR}}}
