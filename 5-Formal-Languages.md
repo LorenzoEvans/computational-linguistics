@@ -15,4 +15,10 @@ The most fundamental relationship, is membership, which lets us express what ele
 We use a variable, ranging over the elements of our set, and placing conditions on them, with the bar `|` meaning "*such that*".
 
 There is one set, the empty set, which is a *subset* of every set, and contains no elements as members.
+
 <img align="center" src="https://i.upmath.me/svg/%5Cemptyset" alt="\emptyset" />
+
+Additionally, a set that contains a single element, is a *singleton* set.
+> Singleton sets are not equivalent to the elements they contain.
+
+We write the cardinality of a set as follows: <img align="center" src="https://i.upmath.me/svg/%7C%3Cset%20name%3E%7C" alt="|&lt;set name&gt;|" />
