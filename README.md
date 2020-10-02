@@ -1,7 +1,7 @@
 # Learn Computational Linguistics in Clojure
 
 
-## A course on computational linguistics, via ![Foundations of Computational Linguistics](https://foundations-computational-linguistics.github.io/chapters/01-Introduction.html).
+## A course on computational linguistics, via [Foundations of Computational Linguistics](https://foundations-computational-linguistics.github.io/chapters/01-Introduction.html).
 
 ### Goals:
 > Learning foundational conceptual tools needed to understand computational models of linguistic structure.
