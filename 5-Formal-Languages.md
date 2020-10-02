@@ -42,5 +42,5 @@ For operations on sets, we have a number of binary operators:
 ### Cartesian Product
 
 <img align="center" src="https://i.upmath.me/svg/A%20%5Ctimes%20B" alt="A \times B" />
- ->
+
 <img align="center" src="https://i.upmath.me/svg/%7B%5Clangle%201%203%20%5Crangle%2C%20%5Clangle%201%204%20%5Crangle%2C%20%5Clangle%202%203%20%5Crangle%20%5Clangle%202%204%20%5Crangle%7D" alt="{\langle 1 3 \rangle, \langle 1 4 \rangle, \langle 2 3 \rangle \langle 2 4 \rangle}" />
