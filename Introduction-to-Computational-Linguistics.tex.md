@@ -4,4 +4,4 @@ Chomsky demonstrated that limiting the structure of these rules into four catego
 The above hierarchy is pivotal in theoretical [[Computer Science]], and is the basis of study for [[Formal Grammars]] in #linguistics. 
 ![f4]
 
-[f4]: http://chart.apis.google.com/chart?cht=tx&chl=m_0c^2
+[f4]: http://chart.apis.google.com/chart?cht=tx&chl=\huge{m_0c^2}
