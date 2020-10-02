@@ -3,6 +3,6 @@ One of the foremost advances, was the [[Chomsky Hierarchy]], which lays out an o
 Chomsky demonstrated that limiting the structure of these rules into four categories (#left-linear, #context-free, #context-sensitive, #unrestricted), results in classes of languages that are nested: ![f5]
 The above hierarchy is pivotal in theoretical [[Computer Science]], and is the basis of study for [[Formal Grammars]] in #linguistics. 
 
-[f4]: http://chart.apis.google.com/chart?cht=tx&chl=\huge{S->\text{NP}\;\text{VP}}
+[f4]: http://chart.apis.google.com/chart?cht=tx&chl=\large{S->\text{NP}\;\text{VP}}
 
-[f5]: http://chart.apis.google.com/chart?cht=tx&chl=\huge{{\ell_{LL}\sub\ell_{CF}\ell_{CS}\ell_{UR}}}
+[f5]: http://chart.apis.google.com/chart?cht=tx&chl=\large{{\ell_{LL}\sub\ell_{CF}\ell_{CS}\ell_{UR}}}
