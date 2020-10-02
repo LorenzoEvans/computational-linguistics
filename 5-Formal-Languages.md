@@ -10,10 +10,9 @@ The most fundamental relationship, is membership, which lets us express what ele
 #### The set of all x such that x is a member of the Naturals and x is greater than or equal to ten. 
 
 
-![f4]
+<img align="center" src="https://i.upmath.me/svg/%5B10%2C%20%5Cinfty%5D" alt="[10, \infty]" />
 
 We use a variable, ranging over the elements of our set, and placing conditions on them, with the bar `|` meaning "*such that*".
 
 There is one set, the empty set, which is a *subset* of every set, and contains no elements as members.
 <img align="center" src="https://i.upmath.me/svg/%5Cemptyset" alt="\emptyset" />
-[f4]: http://chart.apis.google.com/chart?cht=tx&chl={[10,\infty]}
