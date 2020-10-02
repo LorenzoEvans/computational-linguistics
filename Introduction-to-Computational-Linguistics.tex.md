@@ -5,4 +5,5 @@ The above hierarchy is pivotal in theoretical [[Computer Science]], and is the b
 ![f4]
 ![f5]
 [f4]: http://chart.apis.google.com/chart?cht=tx&chl=\Huge{m_0c^2}
-[f5]: http://chart.apis.google.com/chart?cht=tx&chl=\Huge{\ell_{LL} \sub \ell_{CF}, \ell_{CS}, \ell_{UR}}
+
+[f5]: http://chart.apis.google.com/chart?cht=tx&chl=\Huge{{ \ell_{LL} \sub \ell_{CF}, \ell_{CS}, \ell_{UR}}}
