@@ -24,3 +24,16 @@ Additionally, a set that contains a single element, is a *singleton* set.
 We write the cardinality of a set as follows: <img align="center" src="https://i.upmath.me/svg/%7C%3Cset%5C%3B%20name%3E%7C" alt="|&lt;set\; name&gt;|" />, denoting the number of elements in the set.
 
 If one set A, contains elements that are contained in another set, B, we can say: <img align="center" src="https://i.upmath.me/svg/A%20%5Csubset%20B" alt="A \subset B" />, and if there are elements in *B*, that are not in *A*: <img align="center" src="https://i.upmath.me/svg/A%20%5Csubseteq%20B" alt="A \subseteq B" />
+
+For operations on sets, we have a number of binary operators:
+### Union: <img align="center" src="https://i.upmath.me/svg/%5Ccup%2C%5C%3BA%20%5Ccup%20B%5C%3B" alt="\cup,\;A \cup B\;" />
+
+### Intersection:
+
+### Difference:
+
+### Power set:
+
+### Cartesian Product
+
+<img align="center" src="https://i.upmath.me/svg/A%20%5Ctimes%20B" alt="A \times B" />
