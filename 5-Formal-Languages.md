@@ -4,4 +4,4 @@ We have chosen grammaticality, as our starting point, however now, we are forced
 
 ![f4]
 
-[f4]: http://chart.apis.google.com/chart?cht=tx&chl=\huge{x:x\in\N}
+[f4]: http://chart.apis.google.com/chart?cht=tx&chl=\huge{x:x\in\N\;\land}
