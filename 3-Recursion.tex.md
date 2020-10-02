@@ -1,4 +1,4 @@
-The structure of lists, in [[Lisp]], is important, because it dovetails perfectly with recursion.
+The structure of lists, in  Lisp , is important, because it dovetails perfectly with recursion.
     With recursion, we can process a collection, with a function definition, that operates on the head element of a list, and calls itself on the rest of the list.
 
 ```clojure
@@ -14,7 +14,7 @@ This is the general pattern of a recursion function: we have our base case, whic
 ## A Look At Recursion:
 <img style="width:50%;height:50%;" src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2F0xLEDEV-HQ%2F_BUjhutnjJ.png?alt=media&token=21142b4b-dece-442c-8e90-46ac3782b709" alt="drawing"/>
 
-> Visualizing the tree structure of a recursive function is a very powerful way to make sense of it. Generally, within [[Linguistics]], these are referred to as __derivation trees__, or __parse trees.__
+> Visualizing the tree structure of a recursive function is a very powerful way to make sense of it. Generally, within  Linguistics , these are referred to as __derivation trees__, or __parse trees.__
 > This can be considered the __procedural view__, however the declarative view is powerful as well:
 We say a recursive function is __defined by contract__, with this definition being separated into two parts, with their respective behaviors defined.
          A base case determines the output behavior strictly in terms of the input.
